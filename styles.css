@@ -798,7 +798,10 @@ form {
 
 .close-btn {
     position: absolute;
-    line-height: 18px;
+    line-height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 20px;
     width: 20px;
     text-align: center;
